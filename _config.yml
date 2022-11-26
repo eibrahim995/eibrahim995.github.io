@@ -21,9 +21,7 @@
 title: Ibrahim E.Gad's Place on The Internet
 email: eibrahim95@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my personal website where i write about my experiences and thoughts.
 repository: eibrahim995/eibrahim995.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "eibrahim995.github.io"
@@ -56,4 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-show_downloads: "false"
+show_downloads: false
